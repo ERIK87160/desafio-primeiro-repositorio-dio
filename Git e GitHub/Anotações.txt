@@ -1,0 +1,2 @@
+Link para a lista de comandos do Git: https://comandosgit.github.io/
+Link para download do Git: https://git-scm.com/downloads
